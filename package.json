@@ -1,0 +1,27 @@
+{
+  "name": "superfeedr-connect-middleware",
+  "version": "0.0.0",
+  "description": "PuSH & Superfeedr middleware for Node.js (Connect/Express)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/superfeedr/superfeedr-connect-middleware.git"
+  },
+  "keywords": [
+    "superfeedr",
+    "pubsubhubbub",
+    "connect",
+    "express",
+    "middleware",
+    "push"
+  ],
+  "author": "Julien Genestoux",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/superfeedr/superfeedr-connect-middleware/issues"
+  },
+  "homepage": "https://github.com/superfeedr/superfeedr-connect-middleware"
+}
